@@ -1,0 +1,7 @@
+function numbersNtoOne(n){
+  for (let i =n; i >= 1; i--){
+     console.log(i);
+  }
+}
+
+numbersNtoOne(5);
